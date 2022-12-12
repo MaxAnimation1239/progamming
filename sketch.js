@@ -11,7 +11,7 @@ function draw() {
   if(mouseIsPressed === true){
   fill('#F207CA');
   stroke('#055299');
-  ellipse (mouseX, mouseY, );
+  ellipse (mouseX, mouseY, 40);
   }
   else{
     fill('#D8E629');
